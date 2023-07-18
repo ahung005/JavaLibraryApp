@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.table-wrapper {
+  max-height: 25em;
+  width: 40%;
+  overflow: auto;
+  display: inline-block;
+}
+
+.table-wrapper2 {
+  max-height: 25em;
+  width: 100%;
+  overflow: auto;
+  display: inline-block;
+}
